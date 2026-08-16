@@ -3,7 +3,7 @@ const sp12 = {
     "Maths": [
         {
             set: "Set-1",
-            pdf: "sample paper/StudyHub_Class12_MPBoard_Maths_Set1_FULL.pdf"
+            pdf: "StudyHub_Class12_MPBoard_Maths_Set1_FULL.pdf"
         },
         {
             set: "Set-2",
