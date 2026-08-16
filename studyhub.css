@@ -72,7 +72,7 @@ main{
   max-width:100%;
   height: 190px;
   border-radius:20px;
-  background: url("website image/bgpst.png") no-repeat center top/contain ;
+  background: url("bgpst.png") no-repeat center top/contain ;
   linear-gradient(
     to right,
     rgba(255,255,255,0.75),
@@ -184,7 +184,7 @@ main{
     transform: translateX(5px);
 }
 #bg-notes{
-  background: url("website image/bg-no.png") no-repeat center top/contain ;
+  background: url("bg-no.png") no-repeat center top/contain ;
   linear-gradient(
     to right,
     rgba(255,255,255,0.75),
@@ -192,11 +192,11 @@ main{
 )
 }
 #bg-mcq{
-  background: url("website image/bg-mcq.png") no-repeat center top/contain;
+  background: url("bg-mcq.png") no-repeat center top/contain;
   linear-gradient( to right, rgba(255,255,255,0.75), rgba(255,255,255,0))
 }
 #bg-pyq{
-  background: url("website image/bg-pyq.png") no-repeat center top/contain; linear-gradient(to right, rgba(255,255,255,0.75),rgba(255,255,255,0))
+  background: url("bg-pyq.png") no-repeat center top/contain; linear-gradient(to right, rgba(255,255,255,0.75),rgba(255,255,255,0))
 }
 #bg-notes,#bg-mcq,#bg-pyq{
   max-width:100%;
