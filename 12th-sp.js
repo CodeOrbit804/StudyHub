@@ -7,7 +7,7 @@ const sp12 = {
         },
         {
             set: "Set-2",
-            pdf: "StudyHub_Class12_MPBoard_Maths_Set2_FULL.pdf"
+            pdf: "sample paper/StudyHub_Class12_MPBoard_Maths_Set2_FULL.pdf"
         },
       
     ],
@@ -85,7 +85,7 @@ const sp12 = {
     },
     {
       set: "Set-2",
-      pdf: ".sample paper/StudyHub_Class_12_MP_Board_Economics_Set_2.pdf"
+      pdf: "sample paper/StudyHub_Class_12_MP_Board_Economics_Set_2.pdf"
     }
   ],
   
